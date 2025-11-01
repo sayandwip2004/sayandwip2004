@@ -1,6 +1,6 @@
-<h2 align="left">Hi 👋! My name is Sayandwip Debnath and I'm an Android Developer from India 🇮🇳</h2>
+<h2 align="left">Hi 👋! My name is Sayandwip Debnath and I'm an Android Developer from India</h2>
 
----
+
 
 ### 🚀 My Skills
 
@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="Arduino logo" />
 </div>
 
----
+
 
 ### 📊 GitHub Stats  
 
@@ -24,7 +24,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sayandwip2004&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
----
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sayandwip2004/sayandwip2004/output/snake.svg" alt="Snake animation" />
