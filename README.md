@@ -19,12 +19,7 @@
 
 
 <div align="center">
-
- <img height="180em" src="https://stats.dooboo.io/api/github-stats?login=sayandwip2004&theme=radical" />
-
-
-  <!-- Optional: Streak Stats (No Vercel Needed) -->
-  <img height="180em" src="https://streak-stats.demolab.com?user=sayandwip2004&theme=radical" alt="GitHub Streak" />
+<img height="180em" src="https://streak-stats.demolab.com?user=sayandwip2004&theme=radical" alt="GitHub Streak" />
 </div>
 
 
