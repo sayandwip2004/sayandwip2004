@@ -21,9 +21,7 @@
 ### 📊 GitHub Stats  
 
 <div align="center">
- <img height="180" src="https://github-readme-stats.vercel.app/api?username=sayandwip2004&show_icons=true&theme=radical&cache_seconds=7200" />
-
-
+<img height="180" src="https://github-readme-stats-yourname.vercel.app/api?username=sayandwip2004&show_icons=true&theme=radical" />
 </div>
 
 
