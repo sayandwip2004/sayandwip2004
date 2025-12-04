@@ -27,4 +27,4 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sayandwip2004/sayandwip2004/output/snake.svg" alt="Snake animation" />
-</div>fix problem
+</div>
