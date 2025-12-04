@@ -18,10 +18,13 @@
 
 
 
-### 📊 GitHub Stats  
-
 <div align="center">
-<img height="180" src="https://github-readme-stats-yourname.vercel.app/api?username=sayandwip2004&show_icons=true&theme=radical" />
+
+  <!-- Working GitHub Stats Mirror (No Vercel Needed) -->
+  <img height="180em" src="https://github-readme-stats-godkingjay.vercel.app/api?username=sayandwip2004&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+  <!-- Optional: Streak Stats (No Vercel Needed) -->
+  <img height="180em" src="https://streak-stats.demolab.com?user=sayandwip2004&theme=radical" alt="GitHub Streak" />
 </div>
 
 
