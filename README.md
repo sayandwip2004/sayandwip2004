@@ -18,7 +18,7 @@
 
 
 
-<div align="center">
+<div align="left">
 <img height="180em" src="https://streak-stats.demolab.com?user=sayandwip2004&theme=radical" alt="GitHub Streak" />
  
 </div>
