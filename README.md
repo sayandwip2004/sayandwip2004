@@ -1,29 +1,31 @@
-<h2 align="left">Hi 👋! My name is Sayandwip Debnath and I'm an Android Developer from India</h2>
+<h1 align="center">Sayandwip Debnath</h1>
+<h3 align="center">Android & Java Developer</h3>
 
+---
 
+## 🧰 Skills  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,spring,firebase,arduino"/>
+</p>
 
-### 🚀 My Skills
+---
 
-<div align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java logo" />
-  <img width="15" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg.png" height="50" alt="Spring Boot logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" alt="Android Studio logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="Arduino logo" />
-</div>
-
-
-
-<div align="left">
-<img height="180em" src="https://streak-stats.demolab.com?user=sayandwip2004&theme=radical" alt="GitHub Streak" />
- 
-</div>
-
-
+## 📊 GitHub Stats  
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sayandwip2004/sayandwip2004/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sayandwip2004&show_icons=true&theme=radical" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=sayandwip2004&theme=radical" height="160"/>
+</div>
+
+---
+
+## 🏆 Trophies  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sayandwip2004&theme=radical&row=1&column=6"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sayandwip2004/sayandwip2004/output/snake.svg"/>
 </div>
