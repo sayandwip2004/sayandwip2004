@@ -1,4 +1,3 @@
-<!-- Neon Purple Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&color=BB33FF&center=true&vCenter=true&width=600&lines=Sayandwip+Debnath;Android+Developer;Cyberpunk+Neon+Purple+Theme;Welcome+to+my+Digital+Realm!" />
 </h1>
@@ -26,14 +25,14 @@
 </div>
 
 
-## 💜 Digital Stats Matrix
+## 💜 Digital Stats Matrix (Fixed & Visible)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayandwip2004&show_icons=true&theme=dracula&hide_border=true&bg_color=000000" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayandwip2004&layout=compact&theme=dracula&hide_border=true&bg_color=000000" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sayandwip2004&show_icons=true&theme=midnight-purple&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayandwip2004&layout=compact&theme=midnight-purple&hide_border=true" height="160" />
 </div>
 
 
-## 🐍 Purple Neon Snake (Matrix Style)
+## 🐍 Purple Neon Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/sayandwip2004/sayandwip2004/output/snake.svg" />
 </div>
