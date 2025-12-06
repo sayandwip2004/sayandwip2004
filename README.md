@@ -1,57 +1,57 @@
-<!-- Cyberpunk Header -->
+<!-- Neon Purple Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&color=00F0FF&center=true&vCenter=true&width=600&lines=Sayandwip+Debnath;Android+Developer;Java+%7C+Spring+Boot+%7C+Firebase;Welcome+to+my+Cyberpunk+Hub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&color=BB33FF&center=true&vCenter=true&width=600&lines=Sayandwip+Debnath;Android+Developer;Cyberpunk+Neon+Purple+Theme;Welcome+to+my+Digital+Realm!" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Theme-Cyberpunk%20Neon-ff007f?style=for-the-badge&logo=codesandbox&logoColor=00eaff" />
+  <img src="https://img.shields.io/badge/Theme-Neon%20Purple-8f00ff?style=for-the-badge&logo=codesandbox&logoColor=fff" />
 </p>
 
 
-## ⚡ Neon Skills Matrix
+## 💜 Neon Purple Skills Grid
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,androidstudio,firebase,spring,arduino&theme=dark" height="80" />
 </div>
 
 
-## 🔥 Cyberpunk GitHub Analytics
+## 🔮 Cyberpunk GitHub Analytics
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sayandwip2004&theme=neon-palenight&hide_border=true&background=000000" height="180" />
+  <img src="https://streak-stats.demolab.com?user=sayandwip2004&theme=purple-nurple&hide_border=true&background=000000" height="180" />
 </div>
 
 
-## 🏆 Tech Achievements: Neon Trophy Wall
+## 👑 Neon Trophy Showcase
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sayandwip2004&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sayandwip2004&theme=dracula&no-frame=true&row=1&column=7" />
 </div>
 
 
-## 💀 Cyber Grid Stats
+## 💜 Digital Stats Matrix
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayandwip2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayandwip2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sayandwip2004&show_icons=true&theme=dracula&hide_border=true&bg_color=000000" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayandwip2004&layout=compact&theme=dracula&hide_border=true&bg_color=000000" height="160" />
 </div>
 
 
-## 🐍 Neon Snake (Matrix Mode)
+## 🐍 Purple Neon Snake (Matrix Style)
 <div align="center">
   <img src="https://raw.githubusercontent.com/sayandwip2004/sayandwip2004/output/snake.svg" />
 </div>
 
 
-## 🌐 Connect in the Neon District
+## 🌌 Connect in the Neon Dimension
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00eaff?style=for-the-badge&logo=linkedin&logoColor=0a0a0a)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-ff007f?style=for-the-badge&logo=instagram&logoColor=0a0a0a)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8f00ff?style=for-the-badge&logo=github&logoColor=0a0a0a)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BB33FF?style=for-the-badge&logo=linkedin&logoColor=000)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-FF33CC?style=for-the-badge&logo=instagram&logoColor=000)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8e44ff?style=for-the-badge&logo=github&logoColor=000)](#)
 
 </div>
 
 
-## ⚙️ Cyberpunk Terminal Quote
+## ⚙️ Terminal Pulse (Purple Edition)
 ```bash
-> Initializing profile...
-> Loading skills: Java, Android, Firebase, Spring Boot, Arduino
-> Status: Online 🌐  
-> Mission: Building futuristic Android apps.
+> Booting profile...
+> Loading modules: Java, Android, Spring Boot, Firebase
+> Neon Mode: PURPLE activated 💜
+> Status: Online ⚡
