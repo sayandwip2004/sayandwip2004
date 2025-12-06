@@ -19,7 +19,9 @@
 
 
 <div align="center">
-<img height="180em" src="https://streak-stats.demolab.com?user=sayandwip2004&theme=radical" alt="GitHub Streak" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs" />
+  //(https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs
+  //https://streak-stats.demolab.com?user=sayandwip2004&theme=radical" alt="GitHub Streak
 </div>
 
 
