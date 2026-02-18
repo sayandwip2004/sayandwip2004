@@ -51,9 +51,6 @@ I'm <strong>Sayandwip Debnath</strong> from <strong>India</strong>.<br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" />
   <img width="12">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" />
-  <img width="12">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" />
 </div>
 
