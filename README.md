@@ -20,11 +20,14 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
+<h3 align="left">👩‍💻 About Me</h3>
 <p align="left">
-I'm <strong>Sayandwip Debnath</strong> from <strong>India</strong>.<br><br>
-- 📚 Backend Developer<br>
+I'm <strong>Sayandwip Debnath</strong> from <strong>India</strong> — an Android & Backend Developer currently pursuing B.Tech in Computer Science at KIIT (2025–2028).<br><br>
+- Currently working as an <strong>App Developer at Konnexions, KIIT</strong> — building backend systems with Prisma, PostgreSQL, and collaborating via GitHub.<br>
+- Experienced in <strong>Java, Android development, REST APIs, Spring Boot, and Firebase</strong>.<br>
+- Completed a <strong>Software Engineering Job Simulation</strong> and certified in Android development with Java.<br>
+- Always learning — currently exploring backend architecture and API design.<br>
+- Check out my work at <a href="https://sayandwip-portfolio.onrender.com/">sayandwip-portfolio.onrender.com</a>
 </p>
 
 ###
@@ -41,8 +44,7 @@ I'm <strong>Sayandwip Debnath</strong> from <strong>India</strong>.<br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" />
   <img width="12">
 
-  <img src="https://cdn.worldvectorlogo.com/logos/android-studio-1.svg" height="40" />
-  <img width="15">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" />
   <img width="12">
