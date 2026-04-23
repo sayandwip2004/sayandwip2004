@@ -41,8 +41,8 @@ I'm <strong>Sayandwip Debnath</strong> from <strong>India</strong>.<br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" />
   <img width="12">
 
-  <img src="https://cdn.worldvectorlogo.com/logos/android-studio-1.svg" height="50" />
-  <img width="12">
+  <img src="https://cdn.worldvectorlogo.com/logos/android-studio-1.svg" height="40" />
+  <img width="15">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" />
   <img width="12">
