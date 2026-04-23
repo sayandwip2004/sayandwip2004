@@ -53,6 +53,7 @@ I'm <strong>Sayandwip Debnath</strong> from <strong>India</strong> — an Androi
 </div>
 
 ###
+<h3 align="left">🔥 My Streak</h3>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sayandwip2004&theme=dark&hide_border=true" />
 </div>
