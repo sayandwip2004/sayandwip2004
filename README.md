@@ -24,11 +24,7 @@
 
 <p align="left">
 I'm <strong>Sayandwip Debnath</strong> from <strong>India</strong>.<br><br>
-- 🎓 I'm a student<br>
-- 🎨 Drawing is my passion<br>
-- 🏍️ I enjoy riding<br>
-- 📚 I'm currently learning <strong>Backend Development</strong><br>
-- ⚡ In my free time I create art or go for rides
+- 📚 Backend Developer<br>
 </p>
 
 ###
