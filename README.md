@@ -52,7 +52,7 @@ public class Sayandwip extends Developer {
 ## 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sayandwip2004&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+ <img src="https://github-readme-streak-stats-eight.vercel.app?user=sayandwip2004&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </div>
 
 ## 🚀 Featured Projects
