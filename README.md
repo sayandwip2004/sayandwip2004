@@ -61,9 +61,9 @@ public class Sayandwip extends Developer {
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [**MessyMatters**](https://github.com/sayandwip2004) | Short description of what it does | Java · Spring Boot · PostgreSQL |
-| [**Project Name 2**](https://github.com/sayandwip2004) | Short description of what it does | Android · Firebase · REST API |
-| [**Project Name 3**](https://github.com/sayandwip2004) | Short description of what it does | Spring Boot · JWT · PostgreSQL |
+| [**MessyMatters(Private)**](https://github.com/sayandwip2004) | Advance Mess food management & Feedback System | Java · Firebase · XML |
+| [**VpnDuniya(private) 2**](https://github.com/sayandwip2004) | Secure, fast and private WireGuard VPN for Android | Java . WireGuard protocol|
+| [**BillPro(Private)**](https://github.com/sayandwip2004) | Simple Business Invoice making System | Java . Swing . Sql  |
 
 </div>
 
