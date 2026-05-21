@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Android+%26+Backend+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Firebase+%7C+REST+APIs;Building+things+that+actually+work+%E2%9C%85;Always+learning%2C+always+shipping+%F0%9F%93%A6" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Android+%26+Backend+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+REST+APIs;Building+things+that+actually+work+%E2%9C%85;Always+learning%2C+always+shipping+%F0%9F%93%A6" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me
