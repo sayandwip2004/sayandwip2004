@@ -24,6 +24,18 @@ public class Sayandwip extends Developer {
     };
     String currentFocus = "Backend architecture & scalable API design";
     boolean openToWork  = true;
+
+public static List<String> Loading(){
+List<String> list = new ArrayList<String>();
+list.add("Building Android apps with clean architecture");
+list.add("Designing RESTful backends with Spring Boot");
+list.add("Integrating Firebase for real-time features");
+list.add("Working with PostgreSQL for robust data storage");
+list.add("Deepening knowledge in system design & DSA");
+
+return list;
+
+  }
 }
 ```
 
@@ -61,25 +73,8 @@ public class Sayandwip extends Developer {
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [**MessyMatters(Private)**](https://github.com/sayandwip2004) | Advance Mess food management & Feedback System | Java · Firebase · XML |
+| [**MessyMatters(Private)**](https://github.com/sayandwip2004) | Advance Mess food management & Feedback System | Java · Firebase · MPAndroidChart |
 | [**VpnDuniya(private)**](https://github.com/sayandwip2004) | Secure, fast and private WireGuard VPN for Android | Java . WireGuard protocol|
-| [**BillPro(Private)**](https://github.com/sayandwip2004) | Simple Business Invoice making System | Java . Swing . Sql  |
-
-</div>
-
-## 🎯 What I'm Up To
-
-```
-📱  Building Android apps with clean architecture
-⚙️  Designing RESTful backends with Spring Boot
-🔥  Integrating Firebase for real-time features
-🐘  Working with PostgreSQL for robust data storage
-📚  Deepening knowledge in system design & DSA
-```
-
-<div align="center">
-
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=sayandwip2004&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+| [**BillPro**](https://github.com/sayandwip2004) | Simple Business Invoice making System | Java . Swing . Sql  |
 
 </div>
