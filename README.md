@@ -26,12 +26,12 @@ public class Sayandwip extends Developer {
     boolean openToWork  = true;
 
 public static List<String> Loading(){
-List<String> list = new ArrayList<String>();
-list.add("Building Android apps with clean architecture");
-list.add("Designing RESTful backends with Spring Boot");
-list.add("Integrating Firebase for real-time features");
-list.add("Working with PostgreSQL for robust data storage");
-list.add("Deepening knowledge in system design & DSA");
+    List<String> list = new ArrayList<String>();
+    list.add("Building Android apps with clean architecture");
+    list.add("Designing RESTful backends with Spring Boot");
+    list.add("Integrating Firebase for real-time features");
+    list.add("Working with PostgreSQL for robust data storage");
+    list.add("Deepening knowledge in system design & DSA");
 
 return list;
 
