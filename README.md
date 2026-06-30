@@ -73,7 +73,7 @@ return list;
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [**MessyMatters(Private)**](https://github.com/sayandwip2004) | Advance Mess food management & Feedback System | Android Studio · Java · Xml ·Firebase · MPAndroidChart |
+| [**MessyMatters**](https://github.com/sayandwip2004) | Advance Mess food management & Feedback System | Android Studio · Java · Xml ·Firebase · MPAndroidChart |
 | [**VpnDuniya**](https://github.com/sayandwip2004) | Secure, fast and private WireGuard VPN for Android | Android Studio · Java · Xml · WireGuard protocol|
 | [**BillPro**](https://github.com/sayandwip2004) | Simple Business Invoice making System | Java . Swing . Sql  |
 
